@@ -1,0 +1,16 @@
+2024-09-11 12:00:10,364 :INFO : test_e2e :getting all the cart titles
+2024-09-11 12:00:10,421 :INFO : test_e2e :iphone X
+2024-09-11 12:00:10,440 :INFO : test_e2e :Samsung Note 8
+2024-09-11 12:00:10,458 :INFO : test_e2e :Nokia Edge
+2024-09-11 12:00:10,473 :INFO : test_e2e :Blackberry
+2024-09-11 12:00:10,629 :INFO : test_e2e :entring country name as pakistan
+2024-09-11 12:00:16,513 :INFO : test_e2e :Message recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-09-11 12:16:25,717 :INFO : test_e2e :getting all the cart titles
+2024-09-11 12:16:25,777 :INFO : test_e2e :iphone X
+2024-09-11 12:16:25,793 :INFO : test_e2e :Samsung Note 8
+2024-09-11 12:16:25,811 :INFO : test_e2e :Nokia Edge
+2024-09-11 12:16:25,831 :INFO : test_e2e :Blackberry
+2024-09-11 12:16:25,988 :INFO : test_e2e :entring country name as pakistan
+2024-09-11 12:16:31,926 :INFO : test_e2e :Message recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
